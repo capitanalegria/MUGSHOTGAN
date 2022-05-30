@@ -7,6 +7,10 @@ All though this is the very first repository I created going in very happy, most
 
 Please forgive me if I am using the platform incorrectly.
 
+![alt text](https://github.com/capitanalegria/MUGSHOTGAN/blob/main/c.png?raw=true)
+![alt text](https://github.com/capitanalegria/MUGSHOTGAN/blob/main/b.png?raw=true) 
+![alt text](https://github.com/capitanalegria/MUGSHOTGAN/blob/main/mo.png?raw=true)
+
 WITH CODE FROM THESE AUTHORS:
 
 Pytorch pix2pix by Jun-Yan Zhu @junyanz
